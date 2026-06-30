@@ -5,3 +5,5 @@ placa esp32
 
 
 acelerometro/giroscopo
+
+barometro
