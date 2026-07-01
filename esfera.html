@@ -1,0 +1,29 @@
+<html>
+<header>
+<style>
+
+.donut {
+  position: relative;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  background: conic-gradient(
+    #4caf50 0 70%,
+    #ddd 70% 100%
+  );
+}
+
+.donut::after {
+  content: "";
+  position: absolute;
+  /*inset: 30px;       Grosor del anillo */
+  background: white;
+  border-radius: 50%;
+}
+
+</style>
+</header>
+<body>
+<div class="donut"></div>
+</body>
+</html>
