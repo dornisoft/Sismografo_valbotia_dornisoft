@@ -1,4 +1,4 @@
-sismografo con arduino
+1-proyecto sismografo 
 
 placa esp32
 
@@ -7,7 +7,7 @@ acelerometro/giroscopo
 
 
 
-interruptor arduino
+2-proyecto interruptor 
 
 arduino nano 
 
